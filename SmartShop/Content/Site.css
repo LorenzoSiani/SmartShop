@@ -18,3 +18,9 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.link-img-nav {
+    max-height: 140px;
+    max-width: 100px;
+    
+}
